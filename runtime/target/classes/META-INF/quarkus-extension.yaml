@@ -1,0 +1,6 @@
+---
+metadata: {}
+group-id: "org.toomuch2learn"
+artifact-id: "quarkus-minio"
+version: "1.0-SNAPSHOT"
+name: "Quarkus MinIO Extension - Runtime"

@@ -1,0 +1,4 @@
+META-INF/quarkus-javadoc.properties
+org/toomuch2learn/quarkus/minio/deployment/QuarkusMinioProcessor$$accessor.class
+org/toomuch2learn/quarkus/minio/deployment/QuarkusMinioProcessor.class
+META-INF/quarkus-build-steps.list
